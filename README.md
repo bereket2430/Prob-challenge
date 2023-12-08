@@ -18,9 +18,4 @@ This repository contains solutions to the following programming challenges:
 
 5. Prime Number Checker:
    - File: prime.py
-   - Description: A function that takes a number as input and returns true if the number is prime (only divisible by 1 and itself), and false otherwise.
-
-How to Use
-- Each challenge has its own file.
-- You can run the code by executing the corresponding file.
-- Feel free to modify the code or use it as a reference for your own solutions
+     
